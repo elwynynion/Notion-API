@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'HelveticaRegular';
+    src: url(/assets/HelveticaNowText-Regular.woff);
+}
+
+@font-face {
+    font-family: 'HelveticaMedium';
+    src: url(/assets/HelveticaNowText-Medium.woff);
+}
+
+@font-face {
+    font-family: 'HelveticaBold';
+    src: url(/assets/HelveticaNowText-Bold.woff);
+}
+
+body {
+    font-family: HelveticaRegular;
+    color: #391827;
+}
+
+.title {
+    font-family: HelveticaBold;
+    font-size: 32px;
+    color: #391827;
+}
+
+.success-text {
+    font-family: HelveticaMedium;
+    color: #009900;
+}
+
+.icon,
+.text {
+    vertical-align: middle;
+    display: inline-block;
+}
