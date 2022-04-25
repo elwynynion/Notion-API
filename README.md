@@ -8,4 +8,4 @@
 - [ ] Redesign v2.0
 
 
-[DEMO](https://link-url-here.org) 
+[DEMO](https://wyn-notion-api.herokuapp.com/) 
